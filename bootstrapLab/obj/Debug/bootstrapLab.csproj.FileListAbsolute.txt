@@ -1,0 +1,5 @@
+c:\users\luis.ruiz\documents\visual studio 2010\Projects\bootstrapLab\bootstrapLab\bin\bootstrapLab.dll
+c:\users\luis.ruiz\documents\visual studio 2010\Projects\bootstrapLab\bootstrapLab\bin\bootstrapLab.pdb
+c:\users\luis.ruiz\documents\visual studio 2010\Projects\bootstrapLab\bootstrapLab\obj\Debug\bootstrapLab.dll
+c:\users\luis.ruiz\documents\visual studio 2010\Projects\bootstrapLab\bootstrapLab\obj\Debug\bootstrapLab.pdb
+C:\Users\luis.ruiz\Documents\Visual Studio 2010\Projects\bootstrapLab\bootstrapLab\obj\Debug\bootstrapLab.csprojResolveAssemblyReference.cache

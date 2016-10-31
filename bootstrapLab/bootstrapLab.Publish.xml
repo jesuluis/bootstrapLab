@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\luis.ruiz\Desktop\azure" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/bootstrapLab.pdb" publishTime="09/06/2016 17:02:45" />
+    <file relUrl="scripts/bootstrap.min.js" publishTime="05/12/2016 12:05:32" />
+    <file relUrl="bin/bootstrapLab.dll" publishTime="09/06/2016 17:02:46" />
+    <file relUrl="Web.config" publishTime="09/08/2016 16:45:28" />
+    <file relUrl="css/bootstrap.min.css" publishTime="05/12/2016 12:06:14" />
+    <file relUrl="css/bootstrap-theme.min.css" publishTime="05/12/2016 12:06:14" />
+    <file relUrl="BootstrapLab2.htm" publishTime="09/08/2016 12:00:24" />
+    <file relUrl="Index.htm" publishTime="09/06/2016 16:17:47" />
+    <file relUrl="scripts/jquery-1.11.2.min.js" publishTime="05/12/2016 12:05:32" />
+    <file relUrl="images/Ratatouille-remy3.jpg" publishTime="09/06/2016 17:02:13" />
+  </publishProfile>
+</publishData>
